@@ -1,4 +1,4 @@
-v1.0.0
+v1.0.1
 ------------------------------
 
 **FFRU - Final Fantasy Rep Up!**
@@ -20,6 +20,6 @@ This is an addon that will play the "LEVEL UP!" chime from Final Fantasy when yo
 
 **FFRU Download Links:**
 
-[Curse](https://www.curseforge.com/wow/addons/FFRU "This link takes you to the Curseforge.com website, you may download it here and help support the developers.") * [GitHub](https://github.com/donniedice/FFRU "This link takes you to the GitHub.com website, you may download it here.") * [Tukui](https://www.tukui.org/addons.php?id= "This link takes you to the Tukui.org website, you may download it here.") * [Wago](https://addons.wago.io/addons/FFRU "This link takes you to the Wago.io website, you may download it here and help support the developers.") * [WoWInterface](https://www.wowinterface.com/downloads/ "This link takes you to the WoWInterface.com website, you may download it here.")
+[Curse](https://www.curseforge.com/wow/addons/ffru-final-fantasy-rep-up "This link takes you to the Curseforge.com website, you may download it here and help support the developers.") * [GitHub](https://github.com/donniedice/FFRU "This link takes you to the GitHub.com website, you may download it here.") * [Tukui](https://www.tukui.org/addons.php?id=241 "This link takes you to the Tukui.org website, you may download it here.") * [Wago](https://addons.wago.io/addons/ffru "This link takes you to the Wago.io website, you may download it here and help support the developers.") * [WoWInterface](https://www.wowinterface.com/downloads/info26323-FFRU-FinalFantasyRepUp.html "This link takes you to the WoWInterface.com website, you may download it here.")
 
 </div>

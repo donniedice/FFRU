@@ -1,5 +1,5 @@
-## Interface: 11402
-## Version: 1.0.0
+## Interface: 11403
+## Version: 1.0.1
 ## Title:|cffffffffFinal Fantasy Rep Up!|r
 ## Author: DonnieDice
 ## Notes: Grats!
@@ -9,6 +9,6 @@
 ## X-Curse-Project-ID:
 ## X-Tukui-ProjectID:
 ## X-Wago-ID:
-## X-WoWI-ID: 
+## X-WoWI-ID:
 
 main.lua
