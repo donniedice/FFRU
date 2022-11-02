@@ -1,4 +1,4 @@
---v1.0.1
+--v1.0.2
 
   -- Mute default Reputation level up sound
 local Event_Frame_A = CreateFrame("Frame")

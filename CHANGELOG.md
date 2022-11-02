@@ -1,5 +1,3 @@
-v1.0.1
+v1.0.2
 
-- Updated - Interface Versions
-
-- Release - Initial Release
+- Updated - Interface Versions (DragonFlight/WotLK)
