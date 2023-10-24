@@ -1,4 +1,6 @@
-v1.0.3
+v1.0.4
 
-- Updated - Interface Versions (DragonFlight/WotLK)
-- Added   - Chat Message (Merge Alert)
+- Updated - README - Removed TUKUI
+- Updated - TOC Formatting
+- Changed - main.lua > Core.lua
+- Added - Notation to Core.lua

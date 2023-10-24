@@ -1,5 +1,5 @@
 ## Interface: 20504
-## Version: 1.0.3
+## Version: 1.0.4
 ## Title:|cff3bbc00Final Fantasy Rep Up!|r
 ## Author: DonnieDice
 ## Notes: Grats!
@@ -7,8 +7,7 @@
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/FFRU
 ## X-Curse-Project-ID: 624976
-## X-Tukui-ProjectID: 241
 ## X-Wago-ID: WYK9JwGL
 ## X-WoWI-ID: 26323
 
-main.lua
+Core.lua
