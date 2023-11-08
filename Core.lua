@@ -1,4 +1,4 @@
--- v1.0.4
+-- v1.0.5
 
 -- Mute default Reputation level up sound
 -- This code block creates a frame that listens to the "ADDON_LOADED" event and mutes the default reputation level up sound when the event is triggered.

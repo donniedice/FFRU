@@ -1,5 +1,5 @@
-## Interface: 100107
-## Version: 1.0.4
+## Interface: 100200
+## Version: 1.0.5
 ## Title:|cff3bbc00Final Fantasy Rep Up!|r
 ## Author: DonnieDice
 ## Notes: Grats!
